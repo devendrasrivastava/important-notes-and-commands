@@ -1,0 +1,38 @@
+news api
+11d57fbab7c340559e6fb12a9b6e9e94
+
+
+dummyapi.io
+636b6cda854c1b515cdc54d7
+
+
+business
+https://newsapi.org/v2/top-headlines?category=business&apikey=11d57fbab7c340559e6fb12a9b6e9e94&page=1
+
+entertainment
+https://newsapi.org/v2/top-headlines?category=entertainment&apikey=11d57fbab7c340559e6fb12a9b6e9e94&page=1
+
+sports
+https://newsapi.org/v2/top-headlines?category=sports&apikey=11d57fbab7c340559e6fb12a9b6e9e94&page=1
+
+regular path
+https://newsapi.org/v2/top-headlines?country=in&apiKey=7173bb0ecf214c62a37cb63362f13c0e
+
+search api path
+https://newsapi.org/v2/everything?q=sachin&apiKey=11d57fbab7c340559e6fb12a9b6e9e94&language=en&page=1
+
+(https://newsapi.org/v2/everything?q=<<search_text>>&apiKey=<<api_key>>&language=en&page=1)
+
+
+
+
+
+
+
+
+
+link:
+https://source.unsplash.com/900x600/?cars,technology
+
+powershell command
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
